@@ -3,12 +3,25 @@
 
 **Skim-Literature is a project for skimming through scientific papers to extract important information from them using Natural Language Processing techniques. This can help researchers and students save time by quickly summarizing key findings, conclusions, and insights from large volumes of literature.**
 
-## Usage
+## Table of Contents
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [License](#license)
 
-To use Skim-Literature, you will need to install the required dependencies by running the following command:
+## Installation
+1. Clone the repository:
+```
+git clone https://github.com/ekrrems/Skim-Literature.git
+```
+2. Navigate to the project directory:
+```
+cd Skim-Literature
+```
+3. Install the required dependencies using pip:
 ```
 pip install -r requirements.txt
 ```
+
 ## Contributing
 
 Contributions to Skim-Literature are welcome and appreciated! If you would like to contribute, please follow these steps:
@@ -18,3 +31,6 @@ Contributions to Skim-Literature are welcome and appreciated! If you would like 
 3. Implement your changes, including unit tests and documentation.
 4. Commit your changes and push the branch to your forked repository.
 5. Open a pull request and describe your changes in detail.
+
+## License
+Skim-Literature is released under the __MIT License__.
